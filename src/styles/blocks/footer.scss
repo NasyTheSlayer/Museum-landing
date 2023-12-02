@@ -134,6 +134,11 @@
         padding-top: toRem(32);
       }
     }
+
+    &--hover {
+      display: block;
+      @include hover (transform, scale(1.05));
+    }
   }
 
   &__up {
