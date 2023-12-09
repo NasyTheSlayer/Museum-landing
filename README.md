@@ -2,6 +2,8 @@
 
 - [DEMO LINK](https://nasytheslayer.github.io/Museum-landing/)
 
+- [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
+
 ## General info
 The Museum landing page is a training project featuring animations, transitions on product cards and buttons, and anchor targets for in-page navigation. Users can open and close a menu, utilize telephone and email links, and submit information via a dedicated form. The form includes additional validation. The page is responsive and adapts seamlessly to three different device types: desktop, tablet, and mobile. It ensures a user-friendly experience on all platforms.
 
